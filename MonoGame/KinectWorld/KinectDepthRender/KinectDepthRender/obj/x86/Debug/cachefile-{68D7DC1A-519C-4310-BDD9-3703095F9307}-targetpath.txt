@@ -1,3 +1,0 @@
-Content\effects.xnb
-Content\heightmap.xnb
-Content\DebugInfo.xnb
