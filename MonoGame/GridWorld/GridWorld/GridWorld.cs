@@ -41,12 +41,13 @@ namespace GridWorld
         public void SetUpKinectWorld()
         {
             SetupCameraMatrices();
+            MapKinectDepthToTriangles();
         }
 
         public void Update()
         {
             HandleControls();
-            MapKinectDepthToTriangles();
+            
         }
 
         public void HandleControls()
