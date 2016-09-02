@@ -1,0 +1,61 @@
+﻿<AccessoryImageSets>
+  <AccessoryImageSet ID="CloverBoth" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/angell.png" JointType="ShoulderLeft" OffsetX="-50" OffsetY="90"/>
+    <ImageJointCombo Image="Images/Accessories/DevilShane30Right.png" JointType="ShoulderRight" OffsetX="-2" OffsetY="90"/>
+  </AccessoryImageSet>
+  <AccessoryImageSet ID="CloverBoth" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/DevilShane30Left.png" JointType="ShoulderLeft" OffsetX="-52" OffsetY="90"/>
+    <ImageJointCombo Image="Images/Accessories/angelr.png" JointType="ShoulderRight" OffsetX="20" OffsetY="90"/>
+  </AccessoryImageSet>
+  <AccessoryImageSet ID="CloverBoth" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/angell.png" JointType="ShoulderLeft" OffsetX="-50" OffsetY="90"/>
+  </AccessoryImageSet>
+  <AccessoryImageSet ID="CloverBoth" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/angelr.png" JointType="ShoulderRight" OffsetX="20" OffsetY="90"/>
+  </AccessoryImageSet>
+  <AccessoryImageSet ID="CloverBoth" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/clover_small.png" JointType="HandLeft" OffsetX="-45" OffsetY="75"/>
+    <ImageJointCombo Image="Images/Accessories/clover_small.png" JointType="HandRight" OffsetX="-45" OffsetY="75"/>
+  </AccessoryImageSet>
+  <AccessoryImageSet ID="CloverLeft" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/clover_small.png" JointType="HandLeft" OffsetX="-45" OffsetY="75"/>
+  </AccessoryImageSet>
+  <AccessoryImageSet ID="CloverRight" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/clover_small.png" JointType="HandRight" OffsetX="-45" OffsetY="75"/>
+  </AccessoryImageSet>
+  <AccessoryImageSet ID="DevilRight" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/DevilShane30Right.png" JointType="ShoulderRight" OffsetX="-2" OffsetY="90"/>
+  </AccessoryImageSet>
+  <AccessoryImageSet ID="DevilLeft" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/DevilShane30Left.png" JointType="ShoulderLeft" OffsetX="-52" OffsetY="90"/>
+  </AccessoryImageSet>
+  <AccessoryImageSet ID="Guinness_Left" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/guinness_small.png" JointType="HandLeft" OffsetX="-28" OffsetY="40"/>
+  </AccessoryImageSet>
+  <AccessoryImageSet ID="Guinness_Right" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/guinness_small.png" JointType="HandRight" OffsetX="-5" OffsetY="40"/>
+  </AccessoryImageSet>
+  <AccessoryImageSet ID="Guinness_Both" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/guinness_small.png" JointType="HandRight" OffsetX="-5" OffsetY="40"/>
+    <ImageJointCombo Image="Images/Accessories/guinness_small.png" JointType="HandLeft" OffsetX="-28" OffsetY="40"/>
+  </AccessoryImageSet>
+  <AccessoryImageSet ID="Jameson_Left" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/Jameson_small.png" JointType="HandLeft" OffsetX="-28" OffsetY="85"/>
+  </AccessoryImageSet>
+  <AccessoryImageSet ID="Jameson_Right" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/Jameson_small.png" JointType="HandRight" OffsetX="-5" OffsetY="85"/>
+  </AccessoryImageSet>
+  <AccessoryImageSet ID="Jameson_Both" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/Jameson_small.png" JointType="HandRight" OffsetX="-5" OffsetY="85"/>
+    <ImageJointCombo Image="Images/Accessories/Jameson_small.png" JointType="HandLeft" OffsetX="-28" OffsetY="85"/>
+  </AccessoryImageSet>
+  <AccessoryImageSet ID="GuinnessJameson1" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/Jameson_small.png" JointType="HandRight" OffsetX="-5" OffsetY="85"/>
+    <ImageJointCombo Image="Images/Accessories/guinesss_small.png" JointType="HandLeft" OffsetX="-28" OffsetY="40"/>
+  </AccessoryImageSet>
+  <AccessoryImageSet ID="GuinnessJameson2" Frequency="20">
+    <ImageJointCombo Image="Images/Accessories/Jameson_small.png" JointType="HandLeft" OffsetX="-28" OffsetY="85"/>
+    <ImageJointCombo Image="Images/Accessories/guinesss_small.png" JointType="HandRight" OffsetX="-5" OffsetY="40"/>
+  </AccessoryImageSet>
+</AccessoryImageSets>
+  
