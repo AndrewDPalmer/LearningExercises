@@ -1,0 +1,65 @@
+1. Crazy Aliens, 1128 pts
+2. Red Octopi, 1121 pts
+3. Beligerent Aliens, 916 pts
+4. Green Birds, 835 pts
+5. Green People, 822 pts
+6. Pink Pandas, 809 pts
+7. Angry Products of your imagination, 630 pts
+8. Sad Products of your imagination, 616 pts
+9. Beligerent Pandas, 613 pts
+10. Blue People, 609 pts
+11. Blue Aliens, 608 pts
+12. Rhinos, 601 pts
+13. Blue Robots, 599 pts
+14. Orange Bears, 598 pts
+15. Pink Birds, 596 pts
+16. Red Bears, 596 pts
+17. Angry Robots, 594 pts
+18. Sad Octopi, 592 pts
+19. Blue Losers, 591 pts
+20. Sad Bears, 589 pts
+21. Red Aliens, 581 pts
+22. Sad Birds, 572 pts
+23. Beligerent Bears, 561 pts
+24. Green Losers, 546 pts
+25. Blue Products of your imagination, 544 pts
+26. Aliens, 543 pts
+27. Orange Aliens, 536 pts
+28. Sad Rhinos, 345 pts
+29. Pink Aliens, 336 pts
+30. Red Birds, 331 pts
+31. Angry Aliens, 322 pts
+32. Bears, 322 pts
+33. Pandas, 321 pts
+34. Blue Bears, 317 pts
+35. Blue Octopi, 315 pts
+36. Pink Robots, 313 pts
+37. Crazy People, 312 pts
+38. Crazy Robots, 312 pts
+39. Beligerent Losers, 311 pts
+40. Angry People, 310 pts
+41. Red Losers, 310 pts
+42. Orange Octopi, 308 pts
+43. Beligerent Octopi, 307 pts
+44. Crazy Products of your imagination, 306 pts
+45. Red People, 305 pts
+46. Crazy Octopi, 304 pts
+47. Pink Rhinos, 304 pts
+48. Losers, 303 pts
+49. Beligerent Rhinos, 295 pts
+50. Angry Octopi, 294 pts
+51. Blue Rhinos, 292 pts
+52. Crazy Birds, 292 pts
+53. Red Products of your imagination, 292 pts
+54. Angry Pandas, 290 pts
+55. Pink Losers, 290 pts
+56. Robots, 289 pts
+57. Beligerent People, 287 pts
+58. Green Aliens, 286 pts
+59. Crazy Bears, 283 pts
+60. Crazy Rhinos, 277 pts
+61. Green Octopi, 276 pts
+62. Orange Losers, 272 pts
+63. Angry Bears, 260 pts
+64. Orange Birds, 256 pts
+65. Beligerent Birds, 250 pts

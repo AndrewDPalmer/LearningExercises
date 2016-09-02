@@ -1,0 +1,4 @@
+﻿1:  I assume all input is well formed (per the readme) but I do allow for empty lines of text
+2:  I assume all scores will be listed as an integer, but negatives are fine.  It doesn't specify in the rules that a negative score isn't possible (I played snoooker back in the day and negative game scores happened)
+3a:  I don't worry a ton about performance in the team sort and scoring at the end.  I thought that with the size of a typical leaguein most sports (i.e. 10-30 teams) performance won't be a huge issue. ' - that said I used .net/mono built in sorting which is pretty fast
+3b: I did assume that we don't want negative scores for the season.  I've never heard of any sport doing that...

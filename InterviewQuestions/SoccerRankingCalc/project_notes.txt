@@ -1,0 +1,41 @@
+Hi Everyone, 
+
+I wrote this project using C# and Mono as I most of mareer has been in the C# world and the readme said to use the language I was most comfortable with. If that is a big problem I'll gladly rewrite in Ruby or some other language. I'm just not as familiar with the languages listed in your readme and have had minimal time to do this project as my parents are in from Ohio (I actually just wrote it on a train home from PDX)  Anyway, Here are some details about the project.
+
+My Assumptions about the project:
+1:  I assume all input is well formed (per the readme) but I do allow for empty lines of text
+2:  I assume all scores will be listed as an integer, but negatives are fine.  It doesn't specify in the rules that a negative score isn't possible (I played snoooker back in the day and negative game scores happened under some weird snooker rules)
+3a:  I don't worry a ton about performance in the team sort.  I thought that with the size of a typical leaguein most sports (i.e. 10-30 teams) performance won't be a huge issue. ' - that said I used .net/mono built in sorting which is pretty fast
+3b: I did assume that we don't want negative scores for the season.  I've never heard of any sport doing that...
+4. I left the input and output files, as well as the exe there for easy acess.  I normally would not leave those in my git repo
+
+
+Hard Dependencies (needed to run):  
+	Mono:  The only hard dependency is Mono which can be found at http://www.mono-project.com/download/  it also comes with some of the soft dependencies so I recommend that if you don't mind
+Soft Dependencies (not needed but is nice to have as you can run it in project format from a GUI):
+	Xamarin Studio, or monoDevelop which is ithe open source fork: (or even Visual Studio if you wanna try it on a windows machine)
+
+Instructions:
+To run from Console:
+	Navigate to RankingCalculator_Console folder
+	// commands to run from console
+	//compile the code
+	mcs RankingCalculator.cs Models/Match.cs Models/Season.cs Models/Team.cs
+	//execute the program
+	mono RankingCalculator.exe generated_input.txt output.txt
+
+
+To Run from Xamarin or Visual Studio:
+	Navigate to RankingCalculator_IDE folder
+	open the solution 
+	click the play icon (I have the project set to use some test data)
+	- to run tests just right click the test project and choose run
+
+
+I also made a test data generator to make a bunch of test data with.  It is in the SeasonGenerator folder.  To run it go that folder and do the following (note I have minimal input validation here so this would be easy to break but if you use the two expected arguments will work fine)
+	//compile the code
+	$  mcs SeasonGenerator.cs
+	//run the code using the following
+	$  mono SeasonGenerator {integer number of teams} {output file}
+
+Andrew
