@@ -1,0 +1,9 @@
+C:\Users\AndrewPalmer\Documents\GitHub\KinectDepthRender\KinectDepthRender\KinectDepthRender\bin\x86\Debug\KinectDepthRender.exe
+C:\Users\AndrewPalmer\Documents\GitHub\KinectDepthRender\KinectDepthRender\KinectDepthRender\bin\x86\Debug\KinectDepthRender.pdb
+C:\Users\AndrewPalmer\Documents\GitHub\KinectDepthRender\KinectDepthRender\KinectDepthRender\obj\x86\Debug\KinectDepthRender.csprojResolveAssemblyReference.cache
+C:\Users\AndrewPalmer\Documents\GitHub\KinectDepthRender\KinectDepthRender\KinectDepthRender\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\AndrewPalmer\Documents\GitHub\KinectDepthRender\KinectDepthRender\KinectDepthRender\obj\x86\Debug\KinectDepthRender.exe
+C:\Users\AndrewPalmer\Documents\GitHub\KinectDepthRender\KinectDepthRender\KinectDepthRender\obj\x86\Debug\KinectDepthRender.pdb
+C:\Users\AndrewPalmer\Documents\GitHub\KinectDepthRender\KinectDepthRender\KinectDepthRender\bin\x86\Debug\Content\effects.xnb
+C:\Users\AndrewPalmer\Documents\GitHub\KinectDepthRender\KinectDepthRender\KinectDepthRender\bin\x86\Debug\Content\heightmap.xnb
+C:\Users\AndrewPalmer\Documents\GitHub\KinectDepthRender\KinectDepthRender\KinectDepthRender\bin\x86\Debug\Content\DebugInfo.xnb
