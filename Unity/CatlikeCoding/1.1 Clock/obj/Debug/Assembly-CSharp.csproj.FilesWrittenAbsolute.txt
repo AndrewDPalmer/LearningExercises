@@ -1,0 +1,17 @@
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/obj/Debug/Assembly-CSharp.dll
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/Temp/bin/Debug/UnityEngine.dll
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/Temp/bin/Debug/UnityEditor.dll
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/Temp/bin/Debug/Mono.Cecil.dll
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/Temp/bin/Debug/Unity.DataContract.dll
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/andrewpalmer/Documents/code/LearningExercises/Unity/CatlikeCoding/Clock/Temp/bin/Debug/Mono.Cecil.Mdb.dll
