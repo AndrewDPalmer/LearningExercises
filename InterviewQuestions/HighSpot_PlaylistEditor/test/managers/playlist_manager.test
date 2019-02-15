@@ -1,0 +1,8 @@
+- playlist Manager constructor accepts an array of playlists
+- an instantiated playlist manager can have its internal array of playlist returned
+- a playlist_manager.get will return nil if no playlist in the array has an id matching the one passed
+- a playlist_manager.get will return the playlist if one has an id matching the one passed in
+- a playlist_manager.add will add the playlist to the collection and return the new playlist (with id)
+- a playlist_manager.add should have a graceful failure state with bad input #NOT IMPLEMENTED
+- a playlist_manager.delete will remove any playlist with matching id from the collection
+- a playlist_manager.delete does nothing if no items in collection match input.

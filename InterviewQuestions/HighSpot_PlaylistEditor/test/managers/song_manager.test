@@ -1,0 +1,6 @@
+- song Manager constructor accepts an array of songs
+- an instantiated song manager can have its internal array of songs returned
+- a song_manager.get will return nil if no user in the array has an id matching the one passed
+- a song_manager.get will return the song if one has an id matching the one passed in
+- a song manager.add will add the song to the collection and return the new song (with id)
+- a song manager.add should have a graceful failure state with bad input #NOT IMPLEMENTED

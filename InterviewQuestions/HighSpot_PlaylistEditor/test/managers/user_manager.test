@@ -1,0 +1,4 @@
+- user Manager constructor accepts an array of users
+- an instantiated user manager can have its internal array of users returned
+- a user_manager.get will return nil of no user in the array has an id matching the one passed
+- a user_manager.get will return the user if one has an id matching the one passed in

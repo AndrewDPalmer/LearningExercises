@@ -1,0 +1,44 @@
+{
+  "changes": [
+    {
+      "action": "add_song_to_playlist",
+      "song_id": "1",
+      "playlist_id": "1"
+    },
+    {
+      "action": "create_playlist",
+      "user_id": "1",
+      "song_ids": [
+        "1",
+        "2",
+        "3",
+        "99"
+      ]
+    },
+    {
+      "action": "remove_playlist",
+      "playlist_id": "1"
+    },
+    {
+      "action": "create_song",
+      "song_data": {
+        "artist": "Robyn",
+        "title": "Indestructible"
+      }
+    },
+    {
+      "action": "create_song",
+      "song_data": {
+        "artist": "Robyn",
+        "title": "Dancing On My Own"
+      }
+    },
+    {
+      "action": "create_song",
+      "song_data": {
+        "artist": "Robyn",
+        "title": "Time Machine"
+      }
+    }
+  ]
+}
